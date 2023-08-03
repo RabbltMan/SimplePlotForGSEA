@@ -1,8 +1,9 @@
 # 极简的GSEA图表生成脚本
 ### 可执行文件(.exe)下载
 
-**[<p align="center"> 🔗下载链接 </p>](https://rabbltman.lanzout.com/i29Pm148q09e)**
-<p align="center">密码：54du </p>
+[🔗下载链接](https://rabbltman.lanzout.com/i29Pm148q09e)
+
+密码：54du
 
 ### 说明
 - 您可以在程序界面中**选择基因列表文件**，无需将脚本与基因列表放在同目录下。但请注意，**程序生成的图表将保存在.exe文件的同目录下**。
@@ -11,7 +12,7 @@
     - 每个基因**单独成行，且不要有空格或符号**
 ---
 ### 关于程序
-- 适用于网络药理学等。若您没有任何计算机程序设计基础，使用这个带有UI界面的脚本可以完全摆脱代码，一键完成 ```GO富集``` 和 ```KEGG富集``` 的图表生成。
+- 适用于网络药理学等。若您没有任何计算机程序设计基础，使用这个带有UI界面的脚本可以完全摆脱代码，一键完成 **```GO富集```** 和 **```KEGG富集```** 的图表生成。
 - 使用了 GSEApy 库 [[PyPI](https://pypi.org/project/gseapy/) | [Repo](https://github.com/zqfang/GSEApy) | [Docs](https://gseapy.readthedocs.io/en/latest/index.html)] 用于进行**富集分析**。
 ---
 ### 关于源代码和笔记本文件使用
@@ -28,4 +29,5 @@
 ---
 ### 其他
 如有问题可以开个 **[Issue](https://github.com/RabbltMan/SimplePlotForGSEA/issues)**，也可直接邮件联系 rabbltman@outlook.com。
+
 ~~如果您愿意的话可以给我打钱。~~ RabbltMan 不主张打赏、捐赠或赞助。
